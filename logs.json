@@ -1,0 +1,227 @@
+[
+    {
+        "Presseed": "Key.cmd"
+    },
+    {
+        "Held": "Key.cmd"
+    },
+    {
+        "Held": "Key.print_screen"
+    },
+    {
+        "Released": "Key.print_screen"
+    },
+    {
+        "Released": "Key.cmd"
+    },
+    {
+        "Presseed": "'w'"
+    },
+    {
+        "Held": "'w'"
+    },
+    {
+        "Released": "'w'"
+    },
+    {
+        "Presseed": "'h'"
+    },
+    {
+        "Held": "'h'"
+    },
+    {
+        "Released": "'h'"
+    },
+    {
+        "Presseed": "'a'"
+    },
+    {
+        "Held": "'a'"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Presseed": "'t'"
+    },
+    {
+        "Held": "'t'"
+    },
+    {
+        "Released": "'t'"
+    },
+    {
+        "Presseed": "Key.space"
+    },
+    {
+        "Held": "Key.space"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Presseed": "'i'"
+    },
+    {
+        "Held": "'i'"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Presseed": "'s'"
+    },
+    {
+        "Held": "'s'"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Presseed": "Key.space"
+    },
+    {
+        "Held": "Key.space"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Presseed": "'c'"
+    },
+    {
+        "Held": "'c'"
+    },
+    {
+        "Released": "'c'"
+    },
+    {
+        "Presseed": "'y'"
+    },
+    {
+        "Held": "'y'"
+    },
+    {
+        "Released": "'y'"
+    },
+    {
+        "Presseed": "'b'"
+    },
+    {
+        "Held": "'b'"
+    },
+    {
+        "Released": "'b'"
+    },
+    {
+        "Presseed": "'e'"
+    },
+    {
+        "Held": "'e'"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Presseed": "'r'"
+    },
+    {
+        "Held": "'r'"
+    },
+    {
+        "Released": "'r'"
+    },
+    {
+        "Presseed": "'s'"
+    },
+    {
+        "Held": "'s'"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Presseed": "'e'"
+    },
+    {
+        "Held": "'e'"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Presseed": "'c'"
+    },
+    {
+        "Held": "'c'"
+    },
+    {
+        "Released": "'c'"
+    },
+    {
+        "Presseed": "'u'"
+    },
+    {
+        "Held": "'u'"
+    },
+    {
+        "Released": "'u'"
+    },
+    {
+        "Presseed": "'r'"
+    },
+    {
+        "Held": "'r'"
+    },
+    {
+        "Released": "'r'"
+    },
+    {
+        "Presseed": "'i'"
+    },
+    {
+        "Held": "'i'"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Presseed": "'t'"
+    },
+    {
+        "Held": "'t'"
+    },
+    {
+        "Released": "'t'"
+    },
+    {
+        "Presseed": "'y'"
+    },
+    {
+        "Held": "'y'"
+    },
+    {
+        "Released": "'y'"
+    },
+    {
+        "Presseed": "Key.shift_r"
+    },
+    {
+        "Held": "Key.shift_r"
+    },
+    {
+        "Held": "Key.shift_r"
+    },
+    {
+        "Held": "Key.shift_r"
+    },
+    {
+        "Held": "'?'"
+    },
+    {
+        "Released": "'?'"
+    },
+    {
+        "Released": "Key.shift_r"
+    }
+]
